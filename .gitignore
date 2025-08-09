@@ -1,0 +1,20 @@
+# Flutter
+**/build/
+**/.dart_tool/
+**/.pub-cache/
+**/ios/Flutter/Flutter.framework
+**/ios/.generated/
+**/android/.gradle/
+**/android/app/build/
+**/pubspec.lock
+
+# IDEs
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
