@@ -17,4 +17,14 @@
 Thumbs.db
 
 # Logs
-*.log
+*.log# Flutter build artifacts
+build/
+.ios/
+.android/
+.macos/
+linux/
+windows/
+web/
+# Platform build outputs
+android/app/build/
+ios/Flutter/
